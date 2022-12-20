@@ -1,0 +1,15 @@
+C:\GeekBrains\lesson9\task_66\bin\Debug\net7.0\task_66.exe
+C:\GeekBrains\lesson9\task_66\bin\Debug\net7.0\task_66.deps.json
+C:\GeekBrains\lesson9\task_66\bin\Debug\net7.0\task_66.runtimeconfig.json
+C:\GeekBrains\lesson9\task_66\bin\Debug\net7.0\task_66.dll
+C:\GeekBrains\lesson9\task_66\bin\Debug\net7.0\task_66.pdb
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.csproj.AssemblyReference.cache
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.AssemblyInfoInputs.cache
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.AssemblyInfo.cs
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.csproj.CoreCompileInputs.cache
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.dll
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\refint\task_66.dll
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.pdb
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\task_66.genruntimeconfig.cache
+C:\GeekBrains\lesson9\task_66\obj\Debug\net7.0\ref\task_66.dll
